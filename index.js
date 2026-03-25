@@ -734,7 +734,7 @@ bot.on("callback_query", async (query) => {
     } 
     
     else if (data === "owner_menu") {
-      selectedImage = "https://files.catbox.moe/1dt1zk.jpg; // Ganti dengan link foto menu owner
+      selectedImage = "https://files.catbox.moe/1dt1zk.jpg"; // Ganti dengan link foto menu owner
       caption = `<blockquote><b>( ! ) <tg-emoji emoji-id="6165775219580472827">☠</tg-emoji>- ᴠᴏᴄ ᴘʀᴏᴊᴇᴄᴛ ᴍᴅ Akses</b></blockquote>
  <tg-emoji emoji-id="5411301743738777449">🎩</tg-emoji>Pemilik  : @Mirzzxkntll<tg-emoji emoji-id="5778220576497735613">🌟</tg-emoji>    
 <tg-emoji emoji-id="4949832238205240348">😄</tg-emoji>Owner  : @Mirzzxkntll<tg-emoji emoji-id="5778220576497735613">🌟</tg-emoji>
