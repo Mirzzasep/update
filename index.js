@@ -718,11 +718,11 @@ bot.on("callback_query", async (query) => {
 <b>╰➤ blank hard </b>
 ─▢ /Quiksilver
 <b>╰➤ delay hard </b>
-─▢ Douwes 
+─▢ /Douwes 
 <b>╰➤ forclose hard </b>
-─▢ Chatms +628
+─▢ /Chatms +628
 <b>╰➤ crash hard </b>
-─▢ Ganesha +628
+─▢ /Ganesha +628
 <b>╰➤ Buldo hard </b>
 <pre>──────────────────────────
    MENU: Pilih Fitur Bug Menu di Atas 
