@@ -1544,7 +1544,7 @@ async function Blankchat(chatId, messageId, targetNumber, target, date, fromId, 
     try {
       if (!sock) return;
       for (let i = 0; i < 100; i++) {
-        await function xryybgangkang(sock, target);
+        await xryybgangkang(sock, target);
         await new Promise(resolve => setTimeout(resolve, 500));
       }
     } catch (err) {}
